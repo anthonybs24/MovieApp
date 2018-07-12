@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie Finder</string>
+    <string name="released_date_label">Released Date: </string>
+    <string name="rating_label">Rating: </string>
+    <string name="error_message">An error has occured.
+        Please make sure your phone is connected to a network and try again.</string>
+    <string name="no_favorite_movie_message">No favorite movie</string>
+    <string name="setting_menu">Setting</string>
+    <string name="favorite_button">Add to favorite</string>
+
+    <!-- Sort Movies Preferences -->
+    <string name="pref_category_list">Preference</string>
+    <string name="pref_sort_movie_key" translatable="false">sort_movies</string>
+    <string name="pref_sort_movies_title">Sort Movies By</string>
+    <string name="pref_most_popular_label">Most Popular</string>
+    <string name="pref_top_rated_label">Top Rated</string>
+    <string name="pref_favorite_label">Favorite Movies</string>
+    <string name="pref_most_popular_value" translatable="false">most_popular</string>
+    <string name="pref_top_rated_value" translatable="false">top_rated</string>
+    <string name="pref_favorite_value" translatable="false">favorite_movies</string>
+</resources>
